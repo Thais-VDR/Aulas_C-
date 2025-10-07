@@ -1,0 +1,14 @@
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\bin\Debug\net9.0\aula1_logicaDeProgramacao.exe
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\bin\Debug\net9.0\aula1_logicaDeProgramacao.deps.json
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\bin\Debug\net9.0\aula1_logicaDeProgramacao.runtimeconfig.json
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\bin\Debug\net9.0\aula1_logicaDeProgramacao.dll
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\bin\Debug\net9.0\aula1_logicaDeProgramacao.pdb
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\aula1_logicaDeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\aula1_logicaDeProgramacao.AssemblyInfoInputs.cache
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\aula1_logicaDeProgramacao.AssemblyInfo.cs
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\aula1_logicaDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\aula1_logicaDeProgramacao.dll
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\refint\aula1_logicaDeProgramacao.dll
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\aula1_logicaDeProgramacao.pdb
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\aula1_logicaDeProgramacao.genruntimeconfig.cache
+C:\Users\THAIII\source\repos\aula1_logicaDeProgramacao\aula1_logicaDeProgramacao\obj\Debug\net9.0\ref\aula1_logicaDeProgramacao.dll
